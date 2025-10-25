@@ -1,0 +1,28 @@
+#benefits {
+    background-color: #f7f7f7;
+    padding: 50px 20px;
+    text-align: center;
+}
+
+.benefit {
+    display: inline-block;
+    width: 45%;
+    margin: 10px;
+    padding: 20px;
+    background-color: #A9C9FF;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.icon {
+    margin-bottom: 10px;
+}
+
+.benefit img {
+    width: 50px; /* Icon size */
+    height: auto;
+}
+
+.benefit p {
+    color: #1E2A47;
+}
