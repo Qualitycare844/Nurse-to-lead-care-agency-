@@ -1,0 +1,23 @@
+#services {
+    padding: 50px 20px;
+    text-align: center;
+}
+
+.service {
+    background-color: #A9C9FF;
+    padding: 20px;
+    margin: 15px;
+    border-radius: 8px;
+    display: inline-block;
+    width: 45%;
+}
+
+.service h3 {
+    color: #1E2A47;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.service p {
+    color: #333;
+}
