@@ -1,0 +1,5 @@
+<section class="hero" style="background-image: url('path_to_your_uploaded_image.jpg');">
+    <div class="overlay"></div>
+    <h1>Providing Exceptional Nursing Care to Your Loved Ones</h1>
+    <button class="cta-button">Join Our Team</button>
+</section>
