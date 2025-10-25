@@ -1,0 +1,9 @@
+<section id="contact-us">
+    <h2>Get in Touch</h2>
+    <form action="mailto:nurseleadcare@outlook.com" method="post" enctype="multipart/form-data">
+        <input type="text" name="name" placeholder="Full Name" required><br>
+        <input type="email" name="email" placeholder="Email Address" required><br>
+        <textarea name="message" placeholder="Your Message" required></textarea><br>
+        <button type="submit">Send Message</button>
+    </form>
+</section>
