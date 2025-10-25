@@ -1,0 +1,11 @@
+<section id="benefits">
+    <h2>Why Work with Nurse Lead Care?</h2>
+    <div class="benefit">
+        <div class="icon"><img src="path_to_icon.png" alt="Competitive Pay"></div>
+        <p><strong>Competitive Pay</strong>: Earn top rates for your expertise.</p>
+    </div>
+    <div class="benefit">
+        <div class="icon"><img src="path_to_icon.png" alt="Flexible Shifts"></div>
+        <p><strong>Flexible Shifts</strong>: Choose shifts that fit your schedule.</p>
+    </div>
+</section>
