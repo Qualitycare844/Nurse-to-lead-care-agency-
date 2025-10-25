@@ -1,0 +1,41 @@
+.hero {
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-align: center;
+    padding: 60px 20px;
+    position: relative;
+}
+
+.hero .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.4); /* Navy blue overlay */
+    z-index: 1;
+}
+
+.hero h1 {
+    position: relative;
+    font-size: 48px;
+    font-weight: bold;
+    z-index: 2;
+}
+
+.cta-button {
+    background-color: #A9C9FF;
+    color: #1E2A47;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    z-index: 2;
+}
+
+.cta-button:hover {
+    background-color: #FFB6C1;
+    color: white;
+}
