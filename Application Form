@@ -1,0 +1,20 @@
+<section id="how-it-works">
+    <h2>How It Works</h2>
+    <div class="steps">
+        <div class="step">
+            <h3>1. Check Eligibility</h3>
+            <p>Ensure you meet our criteria.</p>
+        </div>
+        <div class="step">
+            <h3>2. Apply</h3>
+            <p>Fill out a brief application form below.</p>
+            <form action="mailto:nurseleadcare@outlook.com" method="post" enctype="multipart/form-data">
+                <input type="text" name="name" placeholder="Full Name" required><br>
+                <input type="email" name="email" placeholder="Email Address" required><br>
+                <input type="tel" name="contact" placeholder="Contact Number" required><br>
+                <input type="file" name="cv" required><br>
+                <button type="submit">Submit Application</button>
+            </form>
+        </div>
+    </div>
+</section>
