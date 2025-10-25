@@ -1,0 +1,11 @@
+<section id="services">
+    <h2>Our Services</h2>
+    <div class="service">
+        <h3>Home Healthcare</h3>
+        <p>Personalized care in the comfort of your home.</p>
+    </div>
+    <div class="service">
+        <h3>Specialist Care</h3>
+        <p>Expert care for specific medical needs.</p>
+    </div>
+</section>
